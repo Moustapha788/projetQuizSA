@@ -34,5 +34,43 @@ define("PATH_DB",ROOT."data".DIRECTORY_SEPARATOR."db.json");
 /*
 ? Chemin sur le dossier public , pour inclusion des images,css et js
 */
-define("WEBROOT","http://localhost/projetQuizSA/public/index.php");
+define("WEB_ROOT","http://localhost/projetQuizSA/public/");
 
+/* 
+? URL pour charger les  images et les fichiers css
+*/
+define("WEB_PUBLIC",str_replace("index.php","",$_SERVER["SCRIPT_NAME"]));
+/* 
+? URL pour charger les  images uploadés pour les phots de profil contenues uploads
+*/
+define("WEB_PHOTOS",WEB_PUBLIC."uploads".DIRECTORY_SEPARATOR);
+/* 
+? URL pour charger les  icones contenues img/icones/
+*/
+define("WEB_ICONES",WEB_PUBLIC.'img'.DIRECTORY_SEPARATOR.'icones'.DIRECTORY_SEPARATOR);
+
+/* 
+? Clé d'erreurs
+*/
+define("KEY_ERRORS","errors");
+
+/* 
+? Clé d'utilisateur connecté
+*/
+define("KEY_USER_CONNECT","user-connect");
+/* 
+? Clé d'utilisateur joueur
+*/
+define('ROLE_JOUEUR','ROLE_JOUEUR');
+/* 
+? Clé d'utilisateur admin
+*/
+define('ROLE_ADMIN','ROLE_ADMIN');
+/* 
+? Chemin page liste joueur avec la query param $page
+*/
+define("LISTE_ROOT",WEB_PUBLIC."?controller=user&action=dashboard&view=liste.joueurs&page=");
+/* 
+? Nombre de valeurs par page de la liste de joueur
+*/
+define('NBR_VALEURS_PAR_PAGE',10);

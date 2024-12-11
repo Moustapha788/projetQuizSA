@@ -2,42 +2,254 @@
     "users": [{
             "nom": "Gaye",
             "prenom": "Moustapha",
-            "age": 23,
             "login": "admin@gmail.com",
-            "password": "admin",
+            "password": "admin123",
             "role": "ROLE_ADMIN",
-            "score": 0
+            "score": 0,
+            "avatar": ""
         },
         {
             "nom": "Gaye",
             "prenom": "Moustapha",
-            "age": 23,
             "login": "joueur@gmail.com",
-            "password": "joueur",
+            "password": "joueur123",
             "role": "ROLE_JOUEUR",
-            "score": 0
+            "score": 0,
+            "avatar": ""
+        },
+        {
+            "nom": "lo",
+            "prenom": "Mbaye",
+            "login": "mbayeLo@gmail.com",
+            "password": "mbayeLo1",
+            "role": "ROLE_ADMIN",
+            "score": 0,
+            "avatar": "mbayeLo_ROLE_ADMIN.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "lo",
+            "prenom": "mbaye",
+            "login": "mbaye12@gmail.com",
+            "password": "mbaye12",
+            "role": "ROLE_JOUEUR",
+            "score": 15,
+            "avatar": "mbaye12_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "niass",
+            "prenom": "khadim",
+            "login": "niass@gmail.com",
+            "password": "niass123",
+            "role": "ROLE_JOUEUR",
+            "score": 0,
+            "avatar": "niass_ROLE_JOUEUR.png"
+        },
+        {
+            "nom": "Samb",
+            "prenom": "Baye Dame",
+            "login": "sambdame@gmail.com",
+            "password": "samb123",
+            "role": "ROLE_ADMIN",
+            "score": 15,
+            "avatar": "sambdame_ROLE_ADMIN.png"
         }
-    ],
-
-    "questions": [{
-        "libele": "Quel est la capitale du Sénégal",
-        "nombreDePoints": 5,
-        "type": "qcm",
-        "reponse": [{
-            "rep1": "Dakar",
-            "rep2": "",
-            "rep3": ""
-        }]
-
-    }, {
-        "libele": "Quel est la capitale du Sénégal",
-        "nombreDePoints": 5,
-        "type": "qcm",
-        "reponse": [{
-            "rep1": "Dakar",
-            "rep2": "",
-            "rep3": ""
-        }]
-
-    }]
+    ]
 }

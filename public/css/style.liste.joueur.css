@@ -1,0 +1,117 @@
+.table-joueurs {
+    margin: 2% 0;
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    min-height: 68vh;
+    background-color: #fff;
+    text-align: center;
+    color: var(--color-of-gold);
+    border: 1px solid var(--color-of-blue);
+    border-radius: 15px;
+    box-shadow: 2px 2px 12px 4px rgba(0, 0, 0, 0.6);
+    position: relative;
+}
+
+.table-joueurs h2 {
+    font-size: 2.5em;
+    margin: 2%;
+}
+
+.table-joueurs table {
+    overflow: hidden;
+    text-align: left;
+    margin: 0 2%;
+}
+
+.table-joueurs table th {
+    font-size: 2em;
+}
+
+.table-joueurs table th:first-child {
+    width: 30%;
+}
+
+.table-joueurs table th:last-child {
+    width: 10%;
+}
+
+.table-joueurs table td {
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bascule {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    height: 90px;
+    padding: 2% 0%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: red; */
+}
+
+.bascule button {
+    display: block;
+    width: 20%;
+    height: 60px;
+    font-size: 1.5em;
+    color: #fff;
+    border: none;
+    background-color: var(--color-of-blue);
+    position: absolute;
+}
+
+.bascule button:first-child {
+    left: 0;
+}
+
+.bascule button:last-child {
+    right: 0;
+}
+
+.bascule button a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.menu-pagination {
+    background: linear-gradient( var(--color-of-blue), #fff);
+    border-radius: 10px;
+    width: 60%;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-pagination small {
+    background-color: #fff;
+    width: 7%;
+    height: 40%;
+    margin: 1%;
+    padding: 0%;
+    font-size: 2em;
+}
+
+.menu-pagination small a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-pagination small a:hover {
+    background-color: var(--color-of-orange);
+}
